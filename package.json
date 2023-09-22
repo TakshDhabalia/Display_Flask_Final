@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "canvas-gauges": "^2.1.7",
+    "fusioncharts": "^3.20.0"
+  }
+}
